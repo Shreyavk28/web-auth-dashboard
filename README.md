@@ -161,7 +161,7 @@ A Postman collection is included to test:
 
 ## Author
 
-Shreya V K
+**Shreya V K**
 Frontend Developer Intern Applicant
----
+
 
