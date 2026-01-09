@@ -161,15 +161,7 @@ A Postman collection is included to test:
 
 ## Author
 
-Shreya V S  
+Shreya V K
 Frontend Developer Intern Applicant
 
----
 
-## Assignment Status
-
-All required features implemented.
-Project completed within the given timeline.
-Ready for review and deployment.
-
-Thank you for reviewing my assignment.
