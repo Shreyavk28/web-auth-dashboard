@@ -52,7 +52,7 @@ Backend
 ---
 
 ## Project Structure
-
+```
 project-root/
 │
 ├── backend/
@@ -76,7 +76,7 @@ project-root/
 │   └── .env
 │
 └── README.md
-
+```
 ---
 
 ## Environment Variables
